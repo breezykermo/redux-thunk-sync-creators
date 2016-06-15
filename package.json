@@ -1,5 +1,5 @@
 {
-  "name": "redux-creators",
+  "name": "redux-thunk-sync-creators",
   "version": "1.0.0",
   "description": "Creator functions for basic async actions with redux",
   "main": "index.js",
